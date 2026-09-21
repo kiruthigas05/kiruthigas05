@@ -106,6 +106,18 @@ Building practical, production-oriented AI applications at the intersection of *
 
 ---
 
+### 📋 [Smart Attendance Management System](https://github.com/kiruthigas05/Attendance-Management-System)
+> Full-stack smart attendance tracking and prediction platform with automated analytics and responsive dashboard.
+
+**Tech:** `React` `Node.js` `Express.js` `MongoDB` `REST APIs` `Tailwind CSS`
+- Comprehensive student attendance tracking and subject timetable management
+- Prediction and projection engine to analyze attendance risk metrics
+- Interactive analytics charts and automated notification system
+
+[GitHub Repository](https://github.com/kiruthigas05/Attendance-Management-System)
+
+---
+
 ### 🔐 Secure Password Manager
 > Security-first full-stack password manager with encrypted credential storage, MFA, and Redis session handling.
 
