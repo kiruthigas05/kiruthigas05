@@ -141,14 +141,7 @@ Building practical, production-oriented AI applications at the intersection of *
 - Engineered backend business logic and database interactions using Java and relational databases (SQL).
 - Implemented object-oriented software components, handled data persistence workflows, and conducted unit testing for core modules.
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kiruthigas05&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Kiruthiga's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kiruthigas05&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
