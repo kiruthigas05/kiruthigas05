@@ -59,13 +59,13 @@ Building practical, production-oriented AI applications at the intersection of *
 ## 🏆 Certifications
 
 ### ☁️ AWS Certified Solutions Architect – Associate
-**Amazon Web Services (AWS)** · [View Credential](YOUR_CREDENTIAL_LINK)
+**Amazon Web Services (AWS)**
 
 ### 🤖 AWS Certified AI Practitioner
-**Amazon Web Services (AWS)** · [View Credential](YOUR_CREDENTIAL_LINK)
+**Amazon Web Services (AWS)**
 
 ### ☁️ AWS Certified Cloud Practitioner
-**Amazon Web Services (AWS)** · [View Credential](YOUR_CREDENTIAL_LINK)
+**Amazon Web Services (AWS)**
 
 ---
 
