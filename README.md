@@ -131,13 +131,15 @@ Building practical, production-oriented AI applications at the intersection of *
 
 ## 💼 Experience
 
-### Full Stack Development Internship
-**[Company Name]** · [Duration]
-- [Add 1–2 bullet points on APIs, frontend, or backend services developed]
+### Full Stack Development Intern
+**TVK Technologies** · 1 month
+- Developed responsive web interfaces and client-side features using modern JavaScript/React and HTML/CSS.
+- Designed and integrated RESTful APIs to ensure seamless communication between frontend and backend services.
 
-### Java Development Internship
-**[Company Name]** · [Duration]
-- [Add 1–2 bullet points on Java backend components, databases, or logic implemented]
+### Java Development Intern
+**DLK Technologies** · 3 months
+- Engineered backend business logic and database interactions using Java and relational databases (SQL).
+- Implemented object-oriented software components, handled data persistence workflows, and conducted unit testing for core modules.
 
 ---
 
